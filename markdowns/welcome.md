@@ -1,29 +1,29 @@
-# Getting Started With Go!
-Welcome to this tutorial on how to get started with Go. Go is a very popular application level programming language developed by Google, that have been used in all major projects in the modern Programming world. Projects like [Docker](https://www.docker.com/), [Kubernetes](https://kubernetes.io/), [hugo](http://gohugo.io/), all leverage the power and simplicity of Go to build scalabe platforms. 
+# Comenzando con Go!
+Bienvenido a este tutorial sobre cómo comenzar con Go. Go es un lenguaje de programación de nivel de aplicación muy popular desarrollado por Google, que se ha utilizado en todos los proyectos importantes en el mundo de la programación moderna. Proyectos como [Docker] (https://www.docker.com/), [Kubernetes] (https://kubernetes.io/), [hugo] (http://gohugo.io/), todos aprovechan el poder y la simplicidad de Go para construir plataformas scalabe.
 
-It makes sense for a new programmer today to invest in learning Go and how it leverages the technologies.
+Tiene sentido para un nuevo programador invertir hoy en aprender Go y cómo aprovecha las tecnologías.
 
-Why should I learn Go?
+¿Por qué debería aprender a ir?
 ===
-* **It's really easy to learn**: Golang favours simplicity, both in terms of syntax structures and programming conventions. Everything in the Go programming environment has beed designed to minimize friction and make the experience smooth and pleasant. That is no more long compilation times, no more dubious compiler errors and no more strange things.
-* **It's fast and reliable**: Go is a compiled programming language with buildin concurrency mechanisms that make it easy to  write programs that get the most out of multicore and networked machines. It has the convenience of garbage collection and the power of run-time reflection.
-* **It has a vast exosystems**: Go has a huge ecosystem. More that [756881](http://go-search.org/) packages and counting! It spans the whole range of applications and its a good source of code reading.
-* **It has created a lot of demand for good Golang Engineers**: The more code is deployed to production the more need there is for solid Golang Developers. This is just a quick tutorial of Go to get you started.
+* ** Es realmente fácil de aprender **: Golang favorece la simplicidad, tanto en términos de estructuras de sintaxis como de convenciones de programación. Todo en el entorno de programación Go ha sido diseñado para minimizar la fricción y hacer que la experiencia sea suave y agradable. Eso no es más tiempos de compilación largos, no hay errores de compilador más dudosos y no más cosas extrañas.
+* ** Es rápido y confiable **: Go es un lenguaje de programación compilado con mecanismos de concurrencia de compilación que hacen que sea más fácil escribir programas que aprovechen al máximo las máquinas multinúcleo y en red. Tiene la conveniencia de la recolección de basura y el poder de la reflexión en tiempo de ejecución.
+* ** Tiene un vasto exosistema **: Go tiene un gran ecosistema. ¡Más que [756881] (http://go-search.org/) paquetes y contando! Abarca toda la gama de aplicaciones y es una buena fuente de lectura de códigos.
+* ** Ha creado mucha demanda de buenos ingenieros de Golang **: Cuantos más códigos se implementen en la producción, más necesidad hay de desarrolladores de Golang sólidos. Este es solo un tutorial rápido de Go para que comiences.
 
-What we will do in this tutorial:
+Qué haremos en este tutorial:
 ===
-* Explore the bacics of Go.
-* Learn more about Goroutines and why are so awesome.
-* Get more resources to continue learning and working with Go.
+* Explora los productos básicos de Go.
+* Aprenda más sobre Goroutines y por qué son tan increíbles.
+* Obtenga más recursos para continuar aprendiendo y trabajando con Go.
 
-Source code
+Código fuente
 ===
-The source code of this tutorial is on [GitHub](theodesp/playground-2zqMV9Np), please feel free to come up with proposals to improve it.
+El código fuente de este tutorial está en [GitHub] (theodesp / playground-2zqMV9Np), por favor siéntase libre de presentar propuestas para mejorarlo.
 
-Quiz time
+Tiempo de prueba
 ===
-?[What is the official website of Go?]
--[ ] go.com
--[ ] golang.com
--[x] golang.org
--[ ] golanguage.org
+? [¿Cuál es el sitio web oficial de Go?]
+- [] go.com
+- [] golang.com
+- [x] golang.org
+- [] golanguage.org

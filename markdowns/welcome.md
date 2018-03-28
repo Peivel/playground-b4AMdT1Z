@@ -3,7 +3,7 @@ Bienvenido a este tutorial sobre cómo comenzar con Go. Go es un lenguaje de pro
 
 Tiene sentido para un nuevo programador invertir hoy en aprender Go y cómo aprovecha las tecnologías.
 
-¿Por qué debería aprender a ir?
+¿Por qué debería aprender a Go?
 ===
 * ** Es realmente fácil de aprender **: Golang favorece la simplicidad, tanto en términos de estructuras de sintaxis como de convenciones de programación. Todo en el entorno de programación Go ha sido diseñado para minimizar la fricción y hacer que la experiencia sea suave y agradable. Eso no es más tiempos de compilación largos, no hay errores de compilador más dudosos y no más cosas extrañas.
 * ** Es rápido y confiable **: Go es un lenguaje de programación compilado con mecanismos de concurrencia de compilación que hacen que sea más fácil escribir programas que aprovechen al máximo las máquinas multinúcleo y en red. Tiene la conveniencia de la recolección de basura y el poder de la reflexión en tiempo de ejecución.
